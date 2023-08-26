@@ -5,7 +5,7 @@ Este repositorio contiene una aplicación computaciónal para el <b>análisis ge
 La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usuario a realizar análisis geotécnicos de muros de retención. La aplicación soporta dos tipos de análisis: 
 <ul>
 <li><b>Análisis estático</b>: se desarrollaron funcionalidades para tres tipos de muro: muros de gravedad, muros en voladizo y tablestacas, tal como se muestra en la Figura 1. <br>
-   <div align='center'>
+   <div align='center'><br>
       <img src= "/figuras/estatico.png"  width="570" height="390"><br>
       Figura 1. Análisis estático
    </div>
@@ -14,7 +14,7 @@ La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usua
 
    
 <li>
-   <b>Análisis pseudo-estático</b> se consideraron los muros con las siguientes geometrías: muro en voladizo con tallo inclinado, muro trapezoidal rectangular y muro trapezoidal isósceles (ver Figura 2).
+   <b>Análisis pseudo-estático</b> se consideraron los muros con las siguientes geometrías: muro en voladizo con tallo inclinado, muro trapezoidal rectangular y muro trapezoidal isósceles (ver Figura 2).<br>
     <div align='center'>
       <img src= "/figuras/pseudo.png"  width="570" height="390" ><br>
       Figura 2. Análisis pseudo-estático
@@ -25,7 +25,7 @@ La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usua
 El código fuente de la aplicación se encuentra disponible la carpeta <a href ="https://github.com/juandavidsolarte/muros_univalle/tree/main/codigo_fuente">codigo_fuente </a>. La aplicación fue desarrollada bajo la filosofía de código abierto y tiene una licencia <a href="https://www.gnu.org/licenses/gpl-3.0.html">General Public Licence <a> (GPL 3.0) <br>
 
 <h3>3. Manual de Usuario</h3>
-La aplicación cuenta con un manual de usuario el cual se puede descargar desde la carpeta <a href ="https://github.com/juandavidsolarte/muros_univalle/tree/main/documentos"> documentos </a>. El manual de usuario describe instrucciones detalladas para descargar  e instalas la aplicación. <br> <br>
+La aplicación cuenta con un manual de usuario el cual se puede descargar desde la carpeta <a href ="https://github.com/juandavidsolarte/muros_univalle/tree/main/documentos"> documentos </a>. El manual de usuario describe instrucciones detalladas para descargar e instalar la aplicación. <br> <br>
 
 Para mayor información acerca de la aplicación, por favor comunicarse con Juan David Solarte (juan.david.solarte@correounivalle.edu.co) o  el profesor Eimer Sandoval (eimar.sandoval@correounivalle.edu.co)
 

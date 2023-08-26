@@ -4,11 +4,21 @@ Este repositorio contiene una aplicación computaciónal para el <b>análisis ge
 
 La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usuario a realizar análisis geotécnicos de muros de retención. La aplicación soporta dos tipos de análisis: 
 <ul>
-<li><b>Análisis estático</b>: se desarrollaron funcionalidades para tres tipos de muro: muros de gravedad, muros en voladizo y tablestacas, tal como se muestra en la Figura \ref{figure-chap5-tiposmuros}.</li>
+<li><b>Análisis estático</b>: se desarrollaron funcionalidades para tres tipos de muro: muros de gravedad, muros en voladizo y tablestacas, tal como se muestra en la Figura 1. <br>
+   <div align='center'>
+      <img src= "/figuras/estatico.png" ><br>
+      Figura 1. Análisis estático
+   </div>
+   <br>
+</li>
 
+   
 <li>
-
-   <b>Análisis pseudo-estático</b> se consideraron los muros con las siguientes geometrías: muro en voladizo con tallo inclinado, muro trapezoidal rectangular y muro trapezoidal isósceles. 
+   <b>Análisis pseudo-estático</b> se consideraron los muros con las siguientes geometrías: muro en voladizo con tallo inclinado, muro trapezoidal rectangular y muro trapezoidal isósceles (ver Figura 2).
+    <div align='center'>
+      <img src= "/figuras/pseudo.png" ><br>
+      Figura 2. Análisis pseudo-estático
+   </div>
 </li>
   
 </ul>

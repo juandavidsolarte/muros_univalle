@@ -6,7 +6,7 @@ La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usua
 <ul>
 <li><b>Análisis estático</b>: se desarrollaron funcionalidades para tres tipos de muro: muros de gravedad, muros en voladizo y tablestacas, tal como se muestra en la Figura 1. <br>
    <div align='center'>
-      <img src= "/figuras/estatico.png" ><br>
+      <img src= "/figuras/estatico.png"  width="570" height="390"><br>
       Figura 1. Análisis estático
    </div>
    <br>
@@ -16,10 +16,14 @@ La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usua
 <li>
    <b>Análisis pseudo-estático</b> se consideraron los muros con las siguientes geometrías: muro en voladizo con tallo inclinado, muro trapezoidal rectangular y muro trapezoidal isósceles (ver Figura 2).
     <div align='center'>
-      <img src= "/figuras/pseudo.png" ><br>
+      <img src= "/figuras/pseudo.png"  width="570" height="390" ><br>
       Figura 2. Análisis pseudo-estático
    </div>
-</li>
-  
+</li>  
 </ul>
+<h3>Código Fuente </h3>
+El código fuente de la aplicación se encuentra en la carpeta código. La aplicación fue desarrollada bajo la filosofía de coódigo abierto y tiene una licencia <a href="https://www.gnu.org/licenses/gpl-3.0.html">General Public Licence <a> (GPL 3.0) <br>
+
+<h3>Manual de Usuario</h3>
+La aplicación cuenta con un manual de usuario el cual se puede descargar desde la carpeta Manual de Usuario. El manual de usuario describe instrucciones detalladas para descargar  e instalas la aplicación.
 

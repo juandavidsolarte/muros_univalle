@@ -22,8 +22,8 @@ La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usua
 </li>  
 </ul>
 <h3>Código Fuente </h3>
-El código fuente de la aplicación se encuentra disponible la carpeta cdigo_fuente. La aplicación fue desarrollada bajo la filosofía de código abierto y tiene una licencia <a href="https://www.gnu.org/licenses/gpl-3.0.html">General Public Licence <a> (GPL 3.0) <br>
+El código fuente de la aplicación se encuentra disponible la carpeta <a href="https://github.com/juandavidsolarte/muros_univalle/tree/main/codigo_fuente">codigo_fuente </a>. La aplicación fue desarrollada bajo la filosofía de código abierto y tiene una licencia <a href="https://www.gnu.org/licenses/gpl-3.0.html">General Public Licence <a> (GPL 3.0) <br>
 
 <h3>Manual de Usuario</h3>
-La aplicación cuenta con un manual de usuario el cual se puede descargar desde la carpeta documentos. El manual de usuario describe instrucciones detalladas para descargar  e instalas la aplicación.
+La aplicación cuenta con un manual de usuario el cual se puede descargar desde la carpeta <a href="https://github.com/juandavidsolarte/muros_univalle/tree/main/documentos"></a> documentos. El manual de usuario describe instrucciones detalladas para descargar  e instalas la aplicación.
 

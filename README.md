@@ -31,5 +31,6 @@ La aplicación cuenta con un manual de usuario el cual se puede descargar desde 
 Para mayor información acerca de la aplicación, por favor comunicarse con Juan David Solarte (juan.david.solarte@correounivalle.edu.co) o  el profesor Eimer Sandoval (eimar.sandoval@correounivalle.edu.co)<br> <br>
 
 <h3>4. Aplicación Ejecutable</h3>
-La aplicación ejecutable se puede descargar haciendo click en el  siguiente <a href= "https://drive.google.com/drive/folders/1Nq113Hb4ZgjSDY8dpsjXVQzzjTb30mIT?usp=sharing">enlace</a>.
+La aplicación ejecutable se puede descargar haciendo click en el  siguiente <a href= "https://drive.google.com/drive/folders/1Nq113Hb4ZgjSDY8dpsjXVQzzjTb30mIT?usp=sharing">enlace</a>. 
+Despues de descargar el archivo <b>Muros.rar</b>, debe descomprimirlo y ejecutar el archivo <b>instalador.exe</b>.
 

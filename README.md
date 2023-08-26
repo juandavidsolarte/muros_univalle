@@ -23,7 +23,7 @@ La aplicación desarrollada en este trabajo de grado se enfoca en ayudar al usua
 </ul>
 <br>
 <h3>2. Código Fuente </h3>
-El código fuente de la aplicación se encuentra disponible la carpeta <a href ="https://github.com/juandavidsolarte/muros_univalle/tree/main/codigo_fuente">codigo_fuente</a>. La aplicación fue desarrollada bajo la filosofía de código abierto y tiene una licencia <a href="https://www.gnu.org/licenses/gpl-3.0.html">General Public Licence <a> (GPL 3.0) <br> <br>
+El código fuente de la aplicación se encuentra disponible la carpeta <a href ="https://github.com/juandavidsolarte/muros_univalle/tree/main/codigo_fuente">codigo_fuente</a>. La aplicación fue desarrollada bajo la filosofía de código abierto y tiene una licencia <a href="https://www.gnu.org/licenses/gpl-3.0.html">General Public Licence <a> (GPL 3.0). Para descargar el código fuente haga clic en el botón <b>Code</b> ubicado en la parte superior de esta ventana o ejecutando del comando <b>git clone</b> <i><i>https://github.com/juandavidsolarte/muros_univalle.git</i>  <br> <br>
 
 <h3>3. Manual de Usuario</h3>
 La aplicación cuenta con un manual de usuario el cual se puede descargar desde la carpeta <a href ="https://github.com/juandavidsolarte/muros_univalle/tree/main/documentos">documentos </a>. El manual de usuario describe instrucciones detalladas para descargar e instalar la aplicación. <br> <br>

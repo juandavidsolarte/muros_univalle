@@ -28,7 +28,7 @@ El código fuente de la aplicación se encuentra disponible la carpeta <a href =
 <h3>3. Manual de Usuario</h3>
 La aplicación cuenta con un manual de usuario el cual se puede descargar desde la carpeta <a href ="https://github.com/juandavidsolarte/muros_univalle/tree/main/documentos">documentos </a>. El manual de usuario describe instrucciones detalladas para descargar e instalar la aplicación. <br> <br>
 
-Para mayor información acerca de la aplicación, por favor comunicarse con Juan David Solarte (juan.david.solarte@correounivalle.edu.co) o  el profesor Eimer Sandoval (eimar.sandoval@correounivalle.edu.co)<br> <br>
+Para mayor información acerca de la aplicación, por favor comunicarse con Juan David Solarte (juan.david.solarte@correounivalle.edu.co) o  el profesor Eimar Sandoval (eimar.sandoval@correounivalle.edu.co)<br> <br>
 
 <h3>4. Aplicación Ejecutable</h3>
 La aplicación ejecutable se puede descargar haciendo click en el  siguiente <a href= "https://drive.google.com/drive/folders/1Nq113Hb4ZgjSDY8dpsjXVQzzjTb30mIT?usp=sharing">enlace</a>. 
